@@ -1,6 +1,9 @@
 # CA_Visualization_Project
 The second project of CA - Data Visualization
 
+Link to the Tableau dashboard ➡
+https://public.tableau.com/app/profile/jeff.cheung5492/viz/CA_Visualization_Project/Dashboard1
+
 Reference: https://www.kaggle.com/datasets/girishchowdary22/british-airways-review-dataset2012-2023
 
 British Airways Review Dataset(2012-2023)
@@ -53,6 +56,3 @@ Jeff Cheung
 
 Link to the data and the Tableau workbook ➡ 
 https://github.com/jeffcheung115231/CA_Visualization_Project
-
-Link to the Tableau dashboard ➡
-https://public.tableau.com/app/profile/jeff.cheung5492/viz/CA_Visualization_Project/Dashboard1
